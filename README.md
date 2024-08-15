@@ -17,6 +17,10 @@ You can reach me at
 - 
 --->
 
+Check out this ChatGPT I made! 
+      https://chatgpt.com/g/g-hMlKre3kh-tour-feedback-evaluator
+
+It determines whether you should follow up with a tour attendee based on their feedback of the tour!
 <!---
 paigekec/paigekec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

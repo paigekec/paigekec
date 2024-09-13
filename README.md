@@ -1,7 +1,7 @@
 Hi, I’m @paigekec!
 <!--- - 👀 I’m interested in ... --->
 
-I am an experienced technologist with 5+ years in machine learning,
+I am an ML Specialist with 5+ years in machine learning,
 software engineering, and data analytics. Skilled in
 developing ML models, driving strategic decisions through
 data analysis, and leading cross-functional teams.
